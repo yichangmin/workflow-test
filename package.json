@@ -1,0 +1,19 @@
+{
+  "name": "workflow-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yichangmin/workflow-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yichangmin/workflow-test/issues"
+  },
+  "homepage": "https://github.com/yichangmin/workflow-test#readme"
+}
