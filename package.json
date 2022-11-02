@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yichangmin/workflow-test/issues"
   },
-  "homepage": "https://github.com/yichangmin/workflow-test#readme"
+  "homepage": "https://github.com/yichangmin/workflow-test#readme",
+  "publishConfig": {
+    "@changmin.yi:registry": "https://npm.pkg.github.com"
+  }
 }
